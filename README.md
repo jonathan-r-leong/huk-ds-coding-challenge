@@ -66,6 +66,7 @@ Instructions for cloning and installing requirements.
 
 Jonathan R. Leong - [@linkedin](https://www.linkedin.com/in/jonathan-r-leong/) - jleong314@gmail.com
 
+Presentation: [Google Slides](https://docs.google.com/presentation/d/1xHm_sohnS54az_YYxH1cOI8i6lakBi5xMXiTxc87zhI/edit?usp=sharing) </br>
 Project Link: [https://github.com/jonathan-r-leong/huk-ds-coding-challenge](https://github.com/jonathan-r-leong/huk-ds-coding-challenge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
